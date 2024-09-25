@@ -10,4 +10,4 @@ Positron is a fork of VS-Code for data science.
 ## Cursor
 Cursor is a VS-Code fork with built in AI and other AI related features.
 
-[Homepage](https://getcursor.com)
+[Homepage](https://cursor.com)
